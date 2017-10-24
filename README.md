@@ -1,4 +1,4 @@
-# Slack-Night
+# Slack-Dark-Mode
 
 [Slack Night Mode by laCour](https://github.com/laCour/slack-night-mode) theme reposted in a css version compatible with Slack for Desktop.
 
