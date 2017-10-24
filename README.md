@@ -15,4 +15,4 @@ document.addEventListener('DOMContentLoaded', function() {
  });
 });
 ```
-and replace `FILE_URL` with your file url path.
+and replace `FILE_URL` with your file url path (e.g. for me is https://raw.githubusercontent.com/mattiacantalu/Slack-Dark-Mode/master/dark-mode.css).
