@@ -15,3 +15,4 @@ document.addEventListener('DOMContentLoaded', function() {
  });
 });
 ```
+and replace `FILE_URL` with your file url path.
