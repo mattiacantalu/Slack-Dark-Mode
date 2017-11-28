@@ -2,7 +2,7 @@
 
 [Slack Night Mode by laCour](https://github.com/laCour/slack-night-mode) theme reposted in a css version compatible with Slack for Desktop.
 
-Append to your `Slack.app/Contents/Resources/app.asar.unpacked/src/static` the following code:
+Append to your `Slack.app/Contents/Resources/app.asar.unpacked/src/static/ssb-interop.js` the following code:
 
 ```
 start(assignIn({}, require('electron').remote.getGlobal('loadSettings'), { windowType: 'WEBAPP' }));
