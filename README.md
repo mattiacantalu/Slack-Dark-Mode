@@ -5,7 +5,6 @@
 Append to your `Slack.app/Contents/Resources/app.asar.unpacked/src/static/ssb-interop.js` the following code:
 
 ```
-start(assignIn({}, require('electron').remote.getGlobal('loadSettings'), { windowType: 'WEBAPP' }));
 document.addEventListener('DOMContentLoaded', function() {
  $.ajax({
    url: 'FILE_URL',
